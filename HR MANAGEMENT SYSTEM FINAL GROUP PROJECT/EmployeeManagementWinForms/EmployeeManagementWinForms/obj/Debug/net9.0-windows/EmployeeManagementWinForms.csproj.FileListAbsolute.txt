@@ -1,0 +1,30 @@
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.exe
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.deps.json
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.runtimeconfig.json
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.dll
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.pdb
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.AssemblyInfo.cs
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.dll
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\refint\EmployeeManagementWinForms.dll
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.pdb
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.genruntimeconfig.cache
+C:\Users\User\Downloads\EmployeeManagementWinForms_NET9\EmployeeManagementWinForms\obj\Debug\net9.0-windows\ref\EmployeeManagementWinForms.dll
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.MainForm.resources
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.dll
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\refint\EmployeeManagementWinForms.dll
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.pdb
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.exe
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.deps.json
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.dll
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\bin\Debug\net9.0-windows\EmployeeManagementWinForms.pdb
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\EmployeeManagementWinForms.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio 2022\EmployeeManagementWinForms - Copy\EmployeeManagementWinForms\obj\Debug\net9.0-windows\ref\EmployeeManagementWinForms.dll
