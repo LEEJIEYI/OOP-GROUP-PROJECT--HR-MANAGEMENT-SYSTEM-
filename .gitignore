@@ -1,0 +1,26 @@
+# Build folders
+bin/
+obj/
+
+# VS folders
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Logs and temp
+*.log
+*.tmp
+
+# Executables
+*.exe
+*.dll
+*.db
+
+# Publish folder
+publish/
